@@ -1,7 +1,6 @@
 # Привет, меня зовут Анастасия!
 
- ![Мое фото](C:\Users\kozlo\OneDrive\Рабочий стол\My Profile\img)
-
+![Мое фото](unnamed.jpg)
 
 Мне 33 года
 
